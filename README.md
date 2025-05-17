@@ -30,10 +30,8 @@
 Siéntete libre de mejorar el proyecto
 
 ---
-
+<h1> Puñito :v</h1>
 <p align="center">
   <img src="https://i.pinimg.com/originals/53/c4/8e/53c48e6081e628bd024b2b9589b393c5.png" alt="❤️" width="100"/>
 </p>
 ```
-
-> **Tip:** GitHub renderiza HTML limitado dentro de Markdown, así que los estilos en línea y las etiquetas `<img>` funcionan de maravilla para color y animación. ¡Disfrútalo!
